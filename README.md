@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Keerthanaa 👋
 
-<!--
-**keerthanaa7/keerthanaa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Android Software Engineer specializing in Android Platform (AOSP), Kotlin, Jetpack Compose, and scalable Android architectures.
 
-Here are some ideas to get you started:
+I build Android solutions across the stack — from AOSP customization and system applications to modern Kotlin-based applications — with experience delivering software for large-scale device fleets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Expertise
+
+- Android Platform Development (AOSP, SystemUI, Framework Customization)
+- Kotlin & Modern Android Development
+- Jetpack Compose & Android Architecture Components
+- MVVM, Clean Architecture, Coroutines, Flow
+- Device Communication (BLE)
+- AI-Assisted Development & RAG Applications
+
+## Featured Projects
+
+🚀 Android Architecture Projects  
+🚀 AOSP / System App Experiments  
+🚀 AI-powered Developer Tools and RAG Applications
